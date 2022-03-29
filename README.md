@@ -1,16 +1,35 @@
-### Hi there 👋
+### Oiee , eu sou o André Esperança
 
-<!--
-**andreesperanca/andreesperanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Atualmente estudando Kotlin/Android Studio
+- 📫 Email : andreluizesperancacorreia@gmail.com
+- 😄 Pronomes : ele/dele
+
+
+
+<div style="display: inline_block"><br>
+  <img align="center"  height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center"  height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg">
+  <img align="center"  height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+        
+
+  <img align="right" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/958471976232579114/958472088644124672/code-coding.gif?width=473&height=473">
+</div>
+
+<div> 
+ 
+  <a href="https://www.instagram.com/dee_esperanca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:andreluizesperancacorreia.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-esperan%C3%A7a-34021a235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/andreesperanca/andreesperanca/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
+         
+          
+
+          
