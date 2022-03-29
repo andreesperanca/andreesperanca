@@ -14,7 +14,7 @@
   <img align="center"  height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
         
 
-  <img align="right" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/958471976232579114/958472088644124672/code-coding.gif?width=473&height=473">
+  <img align="right" height="150" style="border-radius:50px;" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 </div>
 
 <div> 
