@@ -2,7 +2,7 @@
 
 
 
-- 📚 Atualmente estudando Kotlin/Java/Android Studio
+- 📚 Atualmente estudando Kotlin|Java
 - 📫 Email : andreluizesperancacorreia@gmail.com
 - 😄 Pronomes : ele/dele
 
