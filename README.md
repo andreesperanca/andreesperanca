@@ -4,7 +4,6 @@
 
 - 📚 Atualmente estudando Jetpack Compose.
 - 📫 Email : andreluizesperancacorreia@gmail.com
-- 😄 Pronomes : ele/dele
 
 
 
